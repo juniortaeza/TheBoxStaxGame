@@ -17,3 +17,7 @@
   • **Best Entertainment Hack** - What other way can you kill time and beat boredom than by playing BoxStax?! We created a game using Unity for the sole purpose of entertainment and fun for people of all ages!
   
   • **Best UI/UX** - Indulge yourselves in this user interactive game and challenge yourselves! We ensured that the game was user interactive and was appealing and aesthetic to the eye!
+  
+# Access the game here!
+  
+  • **https://juniortaeza.github.io/TheBoxStaxGame/**
